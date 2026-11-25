@@ -13,7 +13,7 @@ I design in Figma and build it in React, so what ships matches what was designed
 | [DocNow](https://github.com/muhammed-adham/docnow) | Healthcare appointment booking (front end) | React, Vite, Tailwind |
 | [Portfolio](https://github.com/muhammed-adham/muhammed-adham-dev) | Personal site with case studies | React, Vite, SCSS |
 
-Portfolio and case studies: https://resume-orpin-iota-38.vercel.app
+Portfolio and case studies: https://muhammed-adham-dev.vercel.app
 
 ## Tools
 
