@@ -7,7 +7,7 @@ I design in Figma and build it in React, so what ships matches what was designed
 
 | Project | What it is | Stack |
 |---|---|---|
-| [OGME](https://github.com/muhammed-adham/ogme-store-fullstack) | E-commerce store, from design to deployment | React, Node, MongoDB |
+| [OGME](https://github.com/muhammed-adham/ogme-store-frontend) | E-commerce store, from design to deployment | React, Node, MongoDB |
 | [AOI Academy](https://github.com/muhammed-adham/aoi-academy-website) | Academy website | JavaScript |
 | [KADER](https://github.com/muhammed-adham/kader-website) | Factory website in native JavaScript | JavaScript |
 | [DocNow](https://github.com/muhammed-adham/docnow-frontend) | Healthcare appointment booking (front end) | React, Vite, Tailwind |
