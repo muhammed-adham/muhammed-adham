@@ -7,15 +7,13 @@ I design in Figma and build it in React, so what ships matches what was designed
 
 | Project | What it is | Stack |
 |---|---|---|
-| [OGME](https://github.com/muhammed-adham/ogme-store-frontend) | E-commerce store, from design to deployment | React, Node, MongoDB |
-| [AOI Academy](https://github.com/muhammed-adham/aoi-academy-website) | Academy website | JavaScript |
-| [KADER](https://github.com/muhammed-adham/kader-website) | Factory website in native JavaScript | JavaScript |
-| [DocNow](https://github.com/muhammed-adham/docnow-frontend) | Healthcare appointment booking (front end) | React, Vite, Tailwind |
-| [Portfolio](https://github.com/muhammed-adham/portfolio-site) | Personal site with case studies | React, Vite, SCSS |
+| [OGME](https://github.com/muhammed-adham/ogme-store) | E-commerce store, from design to deployment | React, Node, MongoDB |
+| [AOI Academy](https://github.com/muhammed-adham/aoi-academy) | Academy website | JavaScript |
+| [KADER](https://github.com/muhammed-adham/kader) | Factory website in native JavaScript | JavaScript |
+| [DocNow](https://github.com/muhammed-adham/docnow) | Healthcare appointment booking (front end) | React, Vite, Tailwind |
+| [Portfolio](https://github.com/muhammed-adham/adham-portfolio) | Personal site with case studies | React, Vite, SCSS |
 
 Portfolio and case studies: https://resume-orpin-iota-38.vercel.app
-
-Repos are named `<project>-<type>`, where type is `website`, `frontend` or `fullstack`.
 
 ## Tools
 
